@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hi,%20I'm%20[Your%20Name]&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Hi,%20I'm%20[blacksmithboy]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<h3 align="center">Electronics Student • Front-End Developer • UI Enthusiast</h3>
+<h3 align="center">Electronics Student • Front-End Developer • UX/UI Enthusiast</h3>
 
 <p align="center">
   Passionate about building scalable web applications & projects.
@@ -23,13 +23,14 @@
 ### 🔗 Social:
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 </p>
 
 ---
 
 ### 💻 Tech Stack:
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -63,7 +64,7 @@ HOLY BIG COMMENT LOL
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blacksmithboy&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
- 
+
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=blacksmithboy&limit=5&theme=dark&combine_all_yearly_contributions=true)
