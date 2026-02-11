@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Hi,%20I'm%20[blacksmithboy]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Hi,%20I'm%20blacksmithboy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <h3 align="center">Electronics Student • Front-End Developer • UX/UI Enthusiast</h3>
 
