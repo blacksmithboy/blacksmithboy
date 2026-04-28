@@ -17,12 +17,11 @@
 ### 💫 About Me:
 
 📚 - Electronics student with a strong interest in **software development** and **UX/UI design**.<br>
-🚀 - Front-end developer focused on building modern **web applications**.<br>
+🚀 - Front-end developer focused on building modern **applications**.<br>
 ✏️ - Experience working with **Figma** for **UI design**.<br>
-📖 - Currently studying **TypeScript, APIs, and React**<br>
+📖 - Currently studying **TypeScript, SQL, and React/Native**<br>
 🌱 - Exploring SQL and ORM for full-stack development.<br>
-🤝 - Open to **collaborating** on web application projects.<br>
-💡 - Always curious and continuously learning.<br>
+🤝 - Open to **collaborating** on application projects.<br>
 
 ---
 
