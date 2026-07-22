@@ -59,8 +59,7 @@
 - 🔬 **Embedded Systems**: Microcontroller programming and hardware control
 - 🌐 **Learning IoT**: Exploring communication protocols and different connections
 - 💡 **Projects**: Building tools that combine electronics with web interfaces
-- 🎨 **UI/UX Design**: Learning to design interfaces for hardware projects
-
+- 🎨 **UI/UX Design**: Designing interfaces for a smoother world
 ---
 
 ### 🔗 Connect with Me:
